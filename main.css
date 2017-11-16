@@ -38,18 +38,18 @@ body{
     font-size: 250%;
     
     
-    
+        
 }
 .textFrame{
     height: 2000px;
     width: 50%;
     float: left;
-    background-color: #f2f2f2;
+    background-color: #d3d8ea;
     text-align: center;
 }
 
 .learn {
-   margin-top: 5%;  
+    margin-top: 5%;  
     margin-left: 27%;
     border-radius: 25px;
     border: 5px solid #000000;
@@ -60,18 +60,29 @@ body{
     text-decoration: none;
 }
 
+
+
 a:link{
     text-decoration: none;
 }
 
 a{
     font-size: 160%;
+    font-weight: 200;
     color: black;
 }
-
+.download > a{
+    position: absolute;
+    right: 10%;
+    bottom: 7%;
+    font-size: 130%;
+    letter-spacing: 5px;
+    
+} 
 .download {
     position: absolute;
-    right: 0;
+    right: 1%;
+    top: 1%;
     border-radius: 25px;
     border: 2px solid #000000;
     padding: 5px; 
