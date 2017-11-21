@@ -1,7 +1,8 @@
 body{
     margin:0;
     font-family: sans-serif;
-    padding:0
+    padding:0;
+        height: 100%;
    
 }
 
@@ -41,7 +42,7 @@ body{
         
 }
 .textFrame{
-    height: 2000px;
+    height: 100%;;
     width: 50%;
     float: left;
     background-color: #d3d8ea;
@@ -58,6 +59,7 @@ body{
     height: 30px;
     text-align: center;
     text-decoration: none;
+    margin-bottom: 40%;
 }
 
 
@@ -80,7 +82,7 @@ a{
     
 } 
 .download {
-    position: absolute;
+    position: fixed;
     right: 1%;
     top: 1%;
     border-radius: 25px;
@@ -90,4 +92,31 @@ a{
     height: 20px;
     text-align: center;
     text-decoration: none;
+}
+
+img{
+    
+}
+    
+        
+.add{
+   
+}    
+.headerp{
+    text-align: center;
+    font-size: 400%;
+    
+}
+.textp{
+    width: 70%;
+    text-align: center;
+    position: absolute;
+    left: 15%;
+    
+}
+
+.textp > p{
+    font-size: 120%;
+    
+    
 }
