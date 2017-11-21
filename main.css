@@ -98,9 +98,8 @@ img{
 
 .headerp{
     text-align: center;
-    font-size: 500%;
-    background-color: #d3d8ea;
-    margin: 10%;    
+    font-size: 400%;
+    margin: 10%;
 }
 
 .textp{
@@ -124,10 +123,24 @@ img{
     height: 90%;
     width: 80%;
     box-shadow: 10px 10px 5px grey; 
+    overflow: scroll;
 }
 
 .problemp{
-    font-size: 130%;
+    font-size: 125%;
+    line-height: 120%;
+    
+}
+
+.problemp > p{
+    margin-bottom: 1%;
+    margin-right: 10%;
+    margin-left: 10%;   
+}
+
+.problemp > h2{
+    
+    margin-left: 45%;
 }
 
 .bluebox{
@@ -135,3 +148,4 @@ img{
     height: 100%;
     width: 60%;
 }
+
