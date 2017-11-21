@@ -104,19 +104,49 @@ img{
 }    
 .headerp{
     text-align: center;
-    font-size: 400%;
+    font-size: 500%;
+    background-color: #d3d8ea;
+    margin: 10%;
+
     
 }
 .textp{
     width: 70%;
+    height:100%;
     text-align: center;
     position: absolute;
     left: 15%;
+    top: 10%;
+    
     
 }
 
 .textp > p{
-    font-size: 120%;
+    font-size: 180%;
     
     
+    
+    
+}
+
+.textbox{
+    background-color: white;
+    position: absolute;
+    top:6%;
+    left: 10%;
+    height: 90%;
+    width: 80%;
+    box-shadow: 10px 10px 5px grey; 
+    
+    
+}
+
+.problemp{
+    font-size: 130%;
+}
+
+.bluebox{
+    background-color: #d3d8ea;
+    height: 100%;
+    width: 60%;
 }
