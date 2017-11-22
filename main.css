@@ -149,3 +149,43 @@ img{
     width: 60%;
 }
 
+.box{
+    width: 70%;
+    height: 80%;
+    margin-left: 15%;
+    margin-top: 5%;
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    
+}
+
+//lagt til av Daniel 22.11
+
+h1{
+    font-size: 300%;
+    color: black;
+    font-family: Verdana;
+    margin-left: 5%;
+    
+}
+
+p{
+    font-family: Verdana;
+    font-size: 90%;
+    margin-left: 5%;
+    margin-right: 60%;
+    
+}
+
+h2{
+    margin-left: 5%;
+    margin-top: 8%;
+    font-size: 130%;
+}
+
+img{
+    margin-left: 5%;
+}
+
+.mobil{
+    float: right;
