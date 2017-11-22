@@ -191,6 +191,43 @@ img{
     float: right;
 }
 
+
+/*Rej- Header */
+    .ProbBox{
+    position: absolute;
+    right: 20%;
+    top: 1%;
+    padding: 5px; 
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    display:  inline-block;
+    
+    
+    
+}
+
+.SoluBox{
+    position: absolute;
+    right: 35%;
+    top: 1%;
+    padding: 5px; 
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    display:  inline-block;
+   
+    
+   
+}
+
+a:hover{
+    color: #7783AF;
+}
+/*Rej- DONE 22.11 */
+
 /*Ryan- Download på slutten */
 .download2 > a{
     font-size: 130%;
@@ -219,3 +256,4 @@ img{
     text-align: center
 }
 /* DONE 22.11 - RYAN */
+
