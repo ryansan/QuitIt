@@ -192,14 +192,13 @@ img{
 }
 
 
-/*Rej- Header */
+/*Rej- Header */ /*endra av alex 22.11.2017 14.57*/
     .ProbBox{
     position: absolute;
     right: 20%;
     top: 1%;
-    padding: 5px; 
-    width: 200px;
-    height: 20px;
+    width: 10%;
+    height: 20%:;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
@@ -207,14 +206,13 @@ img{
     
     
 }
-
+/*endra av alex 22.11.2017 14.57*/
 .SoluBox{
     position: absolute;
     right: 35%;
     top: 1%;
-    padding: 5px; 
-    width: 200px;
-    height: 20px;
+    width: 10%;
+    height: 20%;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
