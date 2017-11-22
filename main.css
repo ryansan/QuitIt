@@ -192,13 +192,14 @@ img{
 }
 
 
-/*Rej- Header */ /*endra av alex 22.11.2017 14.57*/
+/*Rej- Header */
     .ProbBox{
     position: absolute;
     right: 20%;
     top: 1%;
-    width: 10%;
-    height: 20%:;
+    padding: 0.5%; 
+    width: 15%;
+    height: 2%;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
@@ -206,19 +207,25 @@ img{
     
     
 }
-/*endra av alex 22.11.2017 14.57*/
+
 .SoluBox{
     position: absolute;
     right: 35%;
     top: 1%;
-    width: 10%;
-    height: 20%;
+    padding: 0.5%; 
+    width: 15%;
+    height: 2%;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
    
     
    
+}
+.HomeBilde{
+height: 5%;
+    width: 5%;
+    margin-left: 1%;
 }
 
 a:hover{
