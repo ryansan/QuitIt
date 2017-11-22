@@ -264,3 +264,7 @@ a:hover{
 }
 /* DONE 22.11 - RYAN */
 
+.mobilDownload{
+    float: right;
+    margin-top: -10%;
+}
