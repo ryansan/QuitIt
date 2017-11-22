@@ -114,13 +114,13 @@ img{
 .textp > p{
     font-size: 180%;
 }
-
+//Daniel 22.11
 .textbox{
     background-color: white;
     position: absolute;
-    top:6%;
+    top:10%;
     left: 10%;
-    height: 90%;
+    height: 85%;
     width: 80%;
     box-shadow: 10px 10px 5px grey; 
     overflow: scroll;
