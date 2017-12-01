@@ -459,6 +459,7 @@ a:hover{
     }
      /*prob/sol mobilvennlighet DONE*/
     
+
     .problist{  
         text-align: center;
     }
@@ -468,6 +469,7 @@ a:hover{
         top: 27%;
     }
     
+
     
     .probHomeMob{
         width: 100%;
@@ -497,6 +499,10 @@ a:hover{
     
     .box > img{
         width: 50%;
+      }
+      
+    .probHomeMob{
+        width: 100%;
         position: absolute;
         left: 20%;
     }
@@ -525,6 +531,8 @@ a:hover{
     .probHomeMob{
         display: none;
     }
+    
+    
     
     
     
