@@ -365,6 +365,45 @@ a:hover{
         position: relative;
         left: 300px;
     }
+    /* liste for mobil lagt til av Alex*/
+    .HomeIcon{
+        display: inline-block;
+        width: 20%;
+        float: left;
+    }
+    
+    .HomeBilde{
+        width: 10%;
+    }
+    
+    .headerMob{
+        width: 100%;
+        position: absolute;
+        top: 0;
+    }
+    
+    .headerKnapp{
+        
+        width: 100%;
+        float: left;
+        
+    }
+    
+    .list{
+        width: 100%;
+        height: auto;
+    }
+    ul{
+        margin-top:0;
+        list-style-type: none;
+        margin-right: 10%;
+    }
+    li{
+        margin-bottom: 1%;
+    }
+    li > a{
+        font-size: 90%;
+    }
     
     /* for solution/problem siden -- Ryan*/
     problemp{
@@ -430,6 +469,15 @@ a:hover{
     .downloadMob{
         display: none;
         
+    }
+    .list{
+        display: none;
+    }
+    ul{
+        display: none;
+    }
+    .homeMob{
+        display: none;
     }
     
     
