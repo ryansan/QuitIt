@@ -499,6 +499,8 @@ a:hover{
     
     .box > img{
         width: 50%;
+        position: absolute;
+        left: 20%;
       }
       
     .probHomeMob{
