@@ -458,6 +458,21 @@ a:hover{
     }
      /*prob/sol mobilvennlighet DONE*/
     
+    .problist{
+       margin-left: 20%;
+    }
+    
+    .textbox{
+        position: absolute;
+        top: 27%;
+    }
+    
+    .probHomeMob{
+        width: 100%;
+        position: absolute;
+        left: 20%;
+    }
+    
 }
 
 @media only screen and (min-width: 400px){
@@ -478,6 +493,8 @@ a:hover{
     .homeMob{
         display: none;
     }
+    
+    
     
     
 }
