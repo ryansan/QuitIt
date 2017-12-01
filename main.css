@@ -364,10 +364,62 @@ a:hover{
         
         position: relative;
         left: 300px;
-        
-    
-        
     }
+    
+    /* for solution/problem siden -- Ryan*/
+    problemp{
+    font-size: 80%;
+    line-height: 100%;
+    }
+
+    .problemp > p{
+        margin-bottom: 1%;
+        margin-right: 10%;
+        margin-left: 10%; 
+        font-size: 60%;
+    }
+
+    .headerp{
+        font-size: 100%;
+        text-align: center;
+    }
+    
+    .download2 > a{
+        font-size: 80%;
+        letter-spacing: 5px; 
+        color: black;
+    } 
+
+    .download2 {
+        border-radius: 25px;
+        border: 2px solid #000000;
+        padding: 5px; 
+        width: 50%;
+        height: auto;
+        text-align: center;
+        text-decoration: none;
+        margin-left: 25%;
+        position: absolute;
+    }
+
+    .sources{
+        margin-left: 20%;
+    }
+    
+    .problemp > h2{
+        position: relative;
+        margin-top: 20%;
+        margin-left: 0%;
+        font-size: 80%;
+        text-align: center;
+    }
+
+    .sources > a{
+        font-size: 50%;
+        text-align: left;
+    }
+     /*prob/sol mobilvennlighet DONE*/
+    
 }
 
 @media only screen and (min-width: 400px){
