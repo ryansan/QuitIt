@@ -289,6 +289,7 @@ a:hover{
     
     body{
         background: #d3d8ea;
+        overflow-x: hidden;
     }
     
   .textFrame >  p{
@@ -458,6 +459,29 @@ a:hover{
     }
      /*prob/sol mobilvennlighet DONE*/
     
+    .problist{  
+        text-align: center;
+    }
+    
+    .textbox{
+        position: absolute;
+        top: 27%;
+    }
+    
+    
+    .probHomeMob{
+        width: 100%;
+       margin-left: 45%;
+       
+        
+    }
+    
+    .probHomeMob > img{
+        
+    }
+    
+    
+    
 }
 
 @media only screen and (min-width: 400px){
@@ -478,6 +502,12 @@ a:hover{
     .homeMob{
         display: none;
     }
+    
+    .probHomeMob{
+        display: none;
+    }
+    
+    
     
     
 }
@@ -509,3 +539,4 @@ NoKnapp{
     text-decoration: none;
     display:  inline-block;
 }
+
