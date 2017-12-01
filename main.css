@@ -278,12 +278,11 @@ a:hover{
 @media only screen and (max-width: 400px){
     .picFrame{
         
-        background-color: aqua;
+        display: none;
     }
     
     .textFrame{
         
-        border: 5px solid red;
         width: 100%;
         position: absolute; 
     }
