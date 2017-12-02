@@ -275,7 +275,10 @@ a:hover{
     float: right;
     margin-top: -10%;
 }
-@media only screen and (max-width: 400px){
+
+
+/* mob*/
+@media only screen and (max-width: 420px){
     .picFrame{
         
         display: none;
@@ -511,7 +514,8 @@ a:hover{
     
 }
 
-@media only screen and (min-width: 400px){
+/* desktop */
+@media only screen and (min-width: 430px){
     .headerMob{
         display: none;
     }
