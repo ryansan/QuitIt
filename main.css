@@ -521,6 +521,10 @@ a:hover{
         
     }
     
+    .Scroll > a{
+        font-size: 90%;
+    }
+    
 }
 
 /* desktop */
@@ -559,9 +563,7 @@ a:hover{
     text-decoration: none;
     margin-bottom: 40%; 
 }
-    .Scroll > a{
-        font-size: 90%;
-    }
+    
     
     
     
