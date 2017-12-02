@@ -559,6 +559,9 @@ a:hover{
     text-decoration: none;
     margin-bottom: 40%; 
 }
+    .Scroll > a{
+        font-size: 90%;
+    }
     
     
     
