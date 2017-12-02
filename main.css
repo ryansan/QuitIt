@@ -572,13 +572,13 @@ a:hover{
 
 /* rejwan: nor/eng knapper: 01.12 */
 
-NoKnapp{
+.NoKnapp{
        position: absolute;
-    right: 20%;
+    left: 5%;
     top: 2%;
     padding: 0.5%; 
-    width: 2%;
-    height: 2%;
+    width: 3.5%;
+    height: 3.5%;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
@@ -588,15 +588,16 @@ NoKnapp{
 
 .EnKnapp{
     position: absolute;
-    right: 17%;
+    left: 9%;
     top: 2%;
     padding: 0.5%; 
-    width: 2%;
-    height: 2%;
+    width: 3.5%;
+    height: 3.5%;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
 }
+
 
 
 
