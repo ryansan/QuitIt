@@ -525,6 +525,23 @@ a:hover{
         font-size: 90%;
     }
     
+    .norFlag{
+       width: 30%;
+        margin-right: 30%;
+        display: inline-block;
+        margin-left: 30%;
+        
+       
+        
+    }
+    
+    .engFlag{
+        
+         width: 30%;
+        margin-right: 0;
+        display: inline-block;
+      
+    }
 }
 
 /* desktop */
