@@ -232,7 +232,7 @@ img{
    
 }
 .HomeBilde{
-height: 5%;
+height: auto;
     width: 5%;
     margin-left: 1%;
 }
@@ -570,15 +570,13 @@ a:hover{
 
 /* rejwan: nor/eng knapper: 01.12 */
 
-
-
-.NoKnapp{
+NoKnapp{
        position: absolute;
-    left: 5%;
+    right: 20%;
     top: 2%;
     padding: 0.5%; 
-    width: 3.5%;
-    height: 3.5%;
+    width: 2%;
+    height: 2%;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
@@ -588,14 +586,15 @@ a:hover{
 
 .EnKnapp{
     position: absolute;
-    left: 9%;
+    right: 17%;
     top: 2%;
     padding: 0.5%; 
-    width: 3.5%;
-    height: 3.5%;
+    width: 2%;
+    height: 2%;
     text-align: center;
     text-decoration: none;
     display:  inline-block;
 }
+
 
 
