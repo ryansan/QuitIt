@@ -506,6 +506,21 @@ a:hover{
         left: 20%;
       }
     
+     .Scroll{
+       margin-top: 1%;  
+    margin-left: 22%;
+    border-radius: 35px;
+    border: 4px solid #000000;
+    padding: 5px; 
+    width: 60%;
+    height: 5%;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 25%;  
+       
+        
+    }
+    
 }
 
 /* desktop */
@@ -532,7 +547,18 @@ a:hover{
         display: none;
     }
     
-    
+    .Scroll{
+ margin-top: 5%;  
+    margin-left: 27%;
+    border-radius: 35px;
+    border: 7px solid #000000;
+    padding: 10px; 
+    width: 300px;
+    height: 53px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 40%; 
+}
     
     
     
@@ -567,16 +593,5 @@ NoKnapp{
     display:  inline-block;
 }
 
-.Scroll{
- margin-top: 5%;  
-    margin-left: 27%;
-    border-radius: 35px;
-    border: 7px solid #000000;
-    padding: 10px; 
-    width: 300px;
-    height: 53px;
-    text-align: center;
-    text-decoration: none;
-    margin-bottom: 40%; 
-}
+
 
